@@ -1,9 +1,21 @@
-.asd{
-    text-align: right;
-   
-   
+.bb{
+    display: flex;
+    text-align: end;
 }
-.asd{
+a{
     text-decoration: none;
+    color: black;
 }
-   
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    text-align: justify;
+}
+img{
+    width: 100%;
+}
+button{
+    background-color: rgb(182, 182, 252);
+}
